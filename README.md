@@ -6,7 +6,13 @@ A full-stack application that verifies misinformation in real time using large l
 
 ## 🌍 Live Preview
 
-🚀 Coming Soon — Deployed on Vercel (Frontend) and Render/Fly.io (Backend)
+<p align="center">
+  <a href="https://youtu.be/BT2CoQcBUlc" target="_blank">
+    <img src="https://img.youtube.com/vi/BT2CoQcBUlc/maxresdefault.jpg" alt="Watch Demo Video" width="100%" />
+  </a>
+</p>
+
+<p align="center"><strong><a href="https://youtu.be/BT2CoQcBUlc">▶️ Watch the Demo Video</a></strong></p>
 
 ---
 
